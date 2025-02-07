@@ -25,7 +25,7 @@ To get started with PacketInspect, ensure you have Python 3.x installed on your 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/PacketInspect.git
+   git clone https://github.com/iamomjoshi/PacketInspect.git
    cd PacketInspect
    ```
 
