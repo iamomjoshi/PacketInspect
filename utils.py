@@ -1,3 +1,4 @@
+# Author : Om Joshi
 import os
 import sys
 def check_permissions():

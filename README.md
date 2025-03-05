@@ -51,6 +51,7 @@ To sniff TCP packets on the `eth0` interface and log them to `packet_log.txt`, u
 ```bash
 sudo python main.py --interface eth0 --protocol tcp --logfile packet_log.txt
 ```
+<img src="./demo.jpg">
 
 ## File Descriptions
 
